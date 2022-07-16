@@ -55,9 +55,4 @@
 [submodule "Griddify"]
 	path = Griddify
 	url = https://github.com/AriaMinaei/Griddify
-[submodule "LeZuse-ps-scripts"]
-	path = LeZuse-ps-scripts
-	url = https://github.com/LeZuse/photoshop-scripts
-[submodule "bendytree-ps-scripts"]
-	path = bendytree-ps-scripts
-	url = https://github.com/bendytree/Photoshop-Scripts
+
