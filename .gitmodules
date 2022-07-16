@@ -56,3 +56,12 @@
 	path = Griddify
 	url = https://github.com/AriaMinaei/Griddify
 
+[submodule "bendytree-ps-scripts"]
+	path = bendytree-ps-scripts
+	url = https://github.com/bendytree/Photoshop-Scripts.git
+[submodule "LeZuse-ps-scripts"]
+	path = LeZuse-ps-scripts
+	url = https://github.com/LeZuse/photoshop-scripts
+[submodule "SuperPNG"]
+	path = SuperPNG
+	url = https://github.com/fnordware/SuperPNG
