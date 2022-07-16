@@ -25,9 +25,6 @@
 [submodule "Bjango-Actions"]
 	path = Bjango-Actions
 	url = https://github.com/bjango/Bjango-Actions
-[submodule "Photoshop-Scripts"]
-	path = Photoshop-Scripts
-	url = https://github.com/bendytree/Photoshop-Scripts
 [submodule "Presets"]
 	path = Presets
 	url = https://github.com/picwellwisher12pk/Presets
@@ -46,9 +43,6 @@
 [submodule "Adobe-Export-Scripts"]
 	path = Adobe-Export-Scripts
 	url = https://github.com/bronzehedwick/Adobe-Export-Scripts
-[submodule "LeZuse-photoshop-scripts"]
-	path = photoshop-scripts
-	url = https://github.com/LeZuse/photoshop-scripts
 [submodule "uxp-photoshop-plugin-samples"]
 	path = uxp-photoshop-plugin-samples
 	url = https://github.com/AdobeDocs/uxp-photoshop-plugin-samples
