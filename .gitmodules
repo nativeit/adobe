@@ -49,9 +49,6 @@
 [submodule "ES-Collection-ps-scripts"]
 	path = ES-Collection-ps-scripts
 	url = https://github.com/nativeit/ES-Collection-ps-scripts
-[submodule "SuperPNG"]
-	path = SuperPNG
-	url = https://github.com/fnordware/SuperPNG
 [submodule "GUI_Automation_Toolbox"]
 	path = GUI_Automation_Toolbox
 	url = https://github.com/Ashung/GUI_Automation_Toolbox
