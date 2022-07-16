@@ -1,0 +1,66 @@
+[submodule "photoshopCompositionComposer"]
+	path = photoshopCompositionComposer
+	url = https://github.com/mechanicious/photoshopCompositionComposer
+[submodule "Photoshop-Export-Layers-to-Files-Fast"]
+	path = Photoshop-Export-Layers-to-Files-Fast
+	url = https://github.com/antipalindrome/Photoshop-Export-Layers-to-Files-Fast
+[submodule "LayerMiner"]
+	path = LayerMiner
+	url = https://github.com/tomkrcha/LayerMiner
+[submodule "spaces-design"]
+	path = spaces-design
+	url = https://github.com/adobe-photoshop/spaces-design
+[submodule "photoshop-scripting-python"]
+	path = photoshop-scripting-python
+	url = https://github.com/lohriialo/photoshop-scripting-python
+[submodule "Photoshop-Animation"]
+	path = Photoshop-Animation
+	url = https://github.com/sbaril/Photoshop-Animation
+[submodule "photoshop-extensions"]
+	path = photoshop-extensions
+	url = https://github.com/PavelDemyanenko/photoshop-extensions
+[submodule "PS-Scripts"]
+	path = PS-Scripts
+	url = https://github.com/Paul-Riggott/PS-Scripts
+[submodule "Bjango-Actions"]
+	path = Bjango-Actions
+	url = https://github.com/bjango/Bjango-Actions
+[submodule "Photoshop-Scripts"]
+	path = Photoshop-Scripts
+	url = https://github.com/bendytree/Photoshop-Scripts
+[submodule "Presets"]
+	path = Presets
+	url = https://github.com/picwellwisher12pk/Presets
+[submodule "photoshopr"]
+	path = photoshopr
+	url = https://github.com/scrapjs/photoshopr
+[submodule "photoshop-grids"]
+	path = photoshop-grids
+	url = https://github.com/robflaherty/photoshop-grids
+[submodule "NGLEmp"]
+	path = NGLEmp
+	url = https://github.com/NGLEmp/NGLEmp
+[submodule "photoshopScripts"]
+	path = photoshopScripts
+	url = https://github.com/kynd/photoshopScripts
+[submodule "Adobe-Export-Scripts"]
+	path = Adobe-Export-Scripts
+	url = https://github.com/bronzehedwick/Adobe-Export-Scripts
+[submodule "LeZuse-photoshop-scripts"]
+	path = photoshop-scripts
+	url = https://github.com/LeZuse/photoshop-scripts
+[submodule "uxp-photoshop-plugin-samples"]
+	path = uxp-photoshop-plugin-samples
+	url = https://github.com/AdobeDocs/uxp-photoshop-plugin-samples
+[submodule "ES-Collection-ps-scripts"]
+	path = ES-Collection-ps-scripts
+	url = https://github.com/nativeit/ES-Collection-ps-scripts
+[submodule "SuperPNG"]
+	path = SuperPNG
+	url = https://github.com/fnordware/SuperPNG
+[submodule "GUI_Automation_Toolbox"]
+	path = GUI_Automation_Toolbox
+	url = https://github.com/Ashung/GUI_Automation_Toolbox
+[submodule "Griddify"]
+	path = Griddify
+	url = https://github.com/AriaMinaei/Griddify
